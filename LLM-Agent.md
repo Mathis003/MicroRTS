@@ -1,5 +1,7 @@
 # 2026 MicroRTS LLM Game AI Competition
 
+* This competition is part of [2026 IEEE WCCI](https://attend.ieee.org/wcci-2026/competitions/) 
+
 ### Getting Started with MicroRTS LLM-Based Game AI Agents
 
 * Clone out https://github.com/drchangliu/MicroRTS
