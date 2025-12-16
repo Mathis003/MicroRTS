@@ -33,6 +33,8 @@ Read the comments; they are self-explanatory.
 * to change map: in line 25 in  [config.properties](https://github.com/drchangliu/MicroRTS/resources/config.properties) " map_location=maps/8x8/basesWorkers8x8.xml "
 Now, to change the map, go to the maps folder in the project and paste the proper .xml file.
 * to change the number of games available in [Runloop.sh](https://github.com/drchangliu/MicroRTS/RunLoop.sh)
+```
 TOTAL_RUNS=5                         # << set to 1000 for one thousand runs
 RUN_TIME_PER_GAME_SEC="${RUN_TIME_PER_GAME_SEC:-350}"  # << set default seconds per run, it needs to be 500
+```
 * `TOTAL_RUNS` is how many times you want to run, like 5 times or 10 times.
