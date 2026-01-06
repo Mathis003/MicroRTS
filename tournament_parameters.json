@@ -1,0 +1,29 @@
+{
+  "tournamentFolder": "tournament_output",
+  "botJarsFolder": "/Users/mathisdelsart/Desktop/Winner-Bots/_AllBotsJar",
+  "maps": [
+    "maps/8x8/basesWorkers8x8.xml",
+    "maps/16x16/basesWorkers16x16.xml"
+  ],
+  "ais": [
+    "CoacAI",
+    "Mayari",
+    "MixedBot",
+    "ObiBotKenobi",
+    "StrategyTactics",
+    "Tiamat",
+    "TMA",
+    "UTS_Imass"
+  ],
+  "iterations": 100,
+  "maxGameLength": 5000,
+  "timeBudget": 100,
+  "iterationsBudget": -1,
+  "preAnalysisBudget": 1000,
+  "fullObservability": true,
+  "selfMatches": false,
+  "timeoutCheck": true,
+  "runGC": false,
+  "saveTraces": true,
+  "saveGameLogs": false
+}
